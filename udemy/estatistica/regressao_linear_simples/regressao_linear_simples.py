@@ -24,7 +24,7 @@ correlacao = np.corrcoef(X, y) #corrcoef = coeficiente de correlação
 modelo = LinearRegression()
 modelo.fit(X_reshaped, y) #usado para fazer o treinamento
 
-interceccao = modelo.intercept_ #intercecção
+intercept = modelo.intercept_ #variavel independente no modelo linear
 inclinacao = modelo.coef_ #inclinacao
 
 plt.scatter(X_reshaped, y) #para plotar o grafico
