@@ -1,6 +1,4 @@
 # DataScienceStudy
-Some exercises about DataScience courses from Udemy and Udacity:
+Some exercises about DataScience course from Udemy:
 
 https://www.udemy.com/cientista-de-dados
-
-https://br.udacity.com/course/data-scientist--nd025
